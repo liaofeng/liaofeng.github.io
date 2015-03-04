@@ -1,0 +1,13 @@
+markdown: rdiscount
+permalink: /:title
+url: http://www.precious.io
+highlighter: pygments
+name: 吃西瓜放糖
+author: liaofeng
+email: liaofeng.pro@gmail.com
+duoshuo: liaofeng
+weibo: 1309317935
+github: liaofeng
+safe: true
+paginate: 100
+about: "未来不迎，既过不恋，当时不杂"
